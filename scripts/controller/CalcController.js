@@ -12,8 +12,6 @@ class CalcController {
         this.initButtonsEvent();
     }
 
-    //teste Git
-
     inicialize() {
 
         this.setDisplayDateTime();
